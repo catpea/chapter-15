@@ -8,3 +8,6 @@ This open source project provides an opportunity for you to help us improve the 
 We appreciate your help in making the audiobook experience better for all the listeners. Thank you for joining this project and helping us make the open school experience a great one!
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
+
+- [This Is A Wonderful Time To Learn Programming And It Is Easier And More Fascinating Than You Think](docs/poem-2139.mp3)
+
