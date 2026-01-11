@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming With AI: Fight Like A Butterfly Or Die Like A Fly](docs/poem-2142.mp3)
 - [Programming Before Learning Programming](docs/poem-2141.mp3)
 - [School Is Out And AI Is In; Or, Learning With Artificial Intelligence](docs/poem-2140.mp3)
 - [This Is A Wonderful Time To Learn Programming And It Is Easier And More Fascinating Than You Think](docs/poem-2139.mp3)
