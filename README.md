@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Fancy Little JavaScript Programming Ideas For Cold Winter Nights](docs/poem-2144.mp3)
 - [Flow Based Programming: Push And Pull - Super Easy JavaScript](docs/poem-2143.mp3)
 - [Programming With AI: Fight Like A Butterfly Or Die Like A Fly](docs/poem-2142.mp3)
 - [Programming Before Learning Programming](docs/poem-2141.mp3)
