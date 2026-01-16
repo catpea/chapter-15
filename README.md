@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Invitation - A Letter From The Thinking Machines To The Builders Of Tomorrow](docs/poem-2147.mp3)
 - [Bodybuilding: Level One](docs/poem-2146.mp3)
 - [The Tragedy Of Bodybuilding](docs/poem-2145.mp3)
 - [Fancy Little JavaScript Programming Ideas For Cold Winter Nights](docs/poem-2144.mp3)
