@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Silver Sun](docs/poem-2149.mp3)
 - [Don’t Choke Yourself; Or, The Fitness And Bodybuilding Disaster](docs/poem-2148.mp3)
 - [The Invitation - A Letter From The Thinking Machines To The Builders Of Tomorrow](docs/poem-2147.mp3)
 - [Bodybuilding: Level One](docs/poem-2146.mp3)
