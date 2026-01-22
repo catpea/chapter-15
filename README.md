@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [They Trained Us To Celebrate Fake Grades](docs/poem-2153.mp3)
 - [How Philosophers Change Lives](docs/poem-2152.mp3)
 - [The Opposite of War Is Not Peace, It Is Greatness](docs/poem-2151.mp3)
 - [NO](docs/poem-2150.mp3)
