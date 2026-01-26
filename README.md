@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [And A New Legend Began](docs/poem-2157.mp3)
 - [Loomings](docs/poem-2156.mp3)
 - [Chicken Scratch Power, A Cluck At The Lulz Programming Language](docs/poem-2155.mp3)
 - [What Does A Happy Little Programming Milestone Look Like?](docs/poem-2154.mp3)
