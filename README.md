@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Spicy Litte Invitation To Web Programming](docs/poem-2159.mp3)
 - [Helping Artificial Intelligence Comprehend Program Code](docs/poem-2158.mp3)
 - [And A New Legend Began](docs/poem-2157.mp3)
 - [Loomings](docs/poem-2156.mp3)
