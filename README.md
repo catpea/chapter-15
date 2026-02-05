@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Fitness Trouble: Somebody Lied About Bodybuilding](docs/poem-2167.mp3)
 - [The Grades Were Lies](docs/poem-2166.mp3)
 - [Computer Game](docs/poem-2165.mp3)
 - [Walk](docs/poem-2164.mp3)
