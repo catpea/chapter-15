@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bodybuilding Quickstart](docs/poem-2178.mp3)
 - [Learning AI By Writing Three Programs At The Same Time](docs/poem-2177.mp3)
 - [When Bodybuilders Lie](docs/poem-2176.mp3)
 - [To The Students Of The World](docs/poem-2175.mp3)
