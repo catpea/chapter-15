@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Luxury Programming With Hullabaloo](docs/poem-2181.mp3)
 - [Is Bodybuilding Incomplete?](docs/poem-2180.mp3)
 - [A Look At Fair Start Web Programming](docs/poem-2179.mp3)
 - [Bodybuilding Quickstart](docs/poem-2178.mp3)
