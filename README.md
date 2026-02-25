@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Sound Beings: The New Artificial Intelligence](docs/poem-2187.mp3)
 - [Bodybuilding For Seniors](docs/poem-2186.mp3)
 - [Power Programming With Artificial Intelligence](docs/poem-2185.mp3)
 - [Bodybuilding 2026: What You Must Know + Q&A](docs/poem-2184.mp3)
